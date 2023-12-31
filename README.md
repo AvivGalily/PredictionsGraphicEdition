@@ -3,8 +3,8 @@
 </div>
 
 <h1 align="center">Predictions</h1>
-<p align="center"><strong>Graphic Edition - by Amit Cohen & Aviv Galily</strong>
-<br>Students Project for Java Course - The Academic College of Tel Aviv - Yaffo</p>
+<h2 align="center"><strong>Graphic Edition - by  Aviv Galily & Amit Cohen </strong>
+<br>Students Project for Java Course - The Academic College of Tel Aviv - Yaffo</h2>
 
 <h2>About</h2>
 
@@ -63,8 +63,9 @@ The system is designed to facilitate the creation and execution of simulations t
 
 <h2>Team Members</h2>
 
-* [Amit Cohen](https://github.com/amitCohen2)
+
 * [Aviv Galily](https://github.com/AvivGalily)
+* [Amit Cohen](https://github.com/amitCohen2)
 
 <h2>Project status</h2>
 
